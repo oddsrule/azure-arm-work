@@ -1,0 +1,7 @@
+figure out how to deploy using the template I've got rather than using scripted cli commands
+
+work on variable input / output stuff
+
+install mysqldb on db system
+install web app listening on 8080 on web system
+confirm nsg rules are working
